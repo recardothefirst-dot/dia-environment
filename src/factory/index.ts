@@ -1,0 +1,1 @@
+export { FactoryModel } from './FactoryModel';
